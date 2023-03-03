@@ -19,4 +19,14 @@
         "language": "de",
         "year": 2023
     }
+    {
+        "title": "Die Bibel",
+        "author": {
+            "firstName": "null",
+            "lastName": "null",
+            "alive": false
+        },
+        "language": "hb",
+        "year": 0
+    }
 ]
